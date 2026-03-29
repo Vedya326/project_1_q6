@@ -1,8 +1,6 @@
 {
-  "prompt": "A blindfolded hiker carefully descending a foggy mountain valley, feeling the slope with their feet, symbolizing optimization without full visibility. The terrain forms a smooth, concave valley leading toward a distant low point.",
-  "model": "dall-e-3",
+  "prompt": "Cinematic documentary photograph of a lone hiker descending a dramatic fog-covered mountain range at dusk. The hiker is blindfolded, hands slightly extended for balance, carefully placing each foot on the local slope they can feel beneath them. The mountain landscape is complex — multiple valleys and ridges are visible through breaks in the fog, including a deeper, wider valley in the far distance that the hiker appears unaware of. The hiker is moving toward a nearer, shallower valley. Overcast golden hour light. Cinematic wide-angle photography. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements. Everything in the scene must be a physical object that could exist in the real world.",
+  "model": "Gemini 3 Flash",
   "concept": "Gradient Descent",
-  "tradition_name": "Scientific Visualization",
-  "tradition_period": "Contemporary",
-  "tradition_approach": "Metaphorical Realism"
+  "metaphor": "A blindfolded hiker navigating a mountain range; the slope felt underfoot represents local gradients, while the hidden deeper valley represents the global minimum."
 }
